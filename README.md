@@ -1,8 +1,6 @@
 # What is Hot Projects?
 
-:) It's hot & projects. Collection of beautiful and elegant design small to  
-medium size applications using pure JavaScript to sharp the next generation 
-code knowledge & much more!
+🔥 It's hot & projects. Collection of beautiful and elegant design small to medium size applications using pure JavaScript to sharp the next generation code knowledge & much more!
 
 ## Why?
 
